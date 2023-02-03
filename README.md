@@ -4,7 +4,15 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Mobile Developer.<br>🌱 I’m currently learning Flutter<br>👨‍💻 My portfolio [My Website](https://gorkemalyagut.github.io/Portfolio/)<br>📝 I regularly write articles on [Medium](https://medium.com/@gorkemalyagut)<br>⚡ Fun fact I love reading & games.</p>
+- 🔭 I’m currently working on **Mobile Developer.**
+
+- 🌱 I’m currently learning **Flutter**
+
+- 👨‍💻 My portfolio [My Website](https://gorkemalyagut.github.io/Portfolio/)
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@gorkemalyagut)
+
+- ⚡ Fun fact **I love reading & games.**
 
 ###
 
