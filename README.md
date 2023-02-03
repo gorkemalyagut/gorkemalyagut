@@ -4,7 +4,25 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<h1 align="center">Hi 👋, I'm Görkem Alyağut</h1>
+<h3 align="center">A passionate Mobile developer from Cyprus.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gorkemalyagut&label=Profile%20views&color=0e75b6&style=flat" alt="gorkemalyagut" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorkemalyagut" alt="gorkemalyagut" /></a> </p>
+
+- 🔭 I’m currently working on **Mobile Developer.**
+
+- 🌱 I’m currently learning **Flutter**
+
+- 👨‍💻 My portfolio [My Website](https://gorkemalyagut.github.io/Portfolio/)
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@gorkemalyagut)
+
+- ⚡ Fun fact **I love reading & games.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
 ###
 
