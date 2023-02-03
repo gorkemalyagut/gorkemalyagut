@@ -96,8 +96,7 @@
 ###
 
 <div align="left">
-   <img  alt="gorkemalyagut's GitHub Stats" height="150" src="https://awesome-github-stats.azurewebsites.net/user-stats/gorkemalyagut?cardType=github&theme=react&preferLogin=false&Border=00000000" />
-  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=react&preferLogin=false&Border=00000000">    <img  alt="gorkemalyagut's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gorkemalyagut?cardType=github&theme=react&preferLogin=false&Border=00000000" />  </a>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&username=gorkemalyagut" height="150" alt="languages graph"  />
 </div>
