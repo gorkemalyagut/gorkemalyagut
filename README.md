@@ -21,6 +21,9 @@
 ###
 
 <div align="left">
+    <a href="https://gorkemalyagut.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My Website&logo=dribbble&label=&color=FCD12A&logoColor=022336&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
+  </a>
   <a href="https://cy.linkedin.com/in/gorkemalyagut" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
