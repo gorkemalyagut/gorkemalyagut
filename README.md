@@ -115,7 +115,7 @@
 
 ###
 
-<img src="https://github.com/gorkemalyagut/gorkemalyagutb/lob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/gorkemalyagut/gorkemalyagutb/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
