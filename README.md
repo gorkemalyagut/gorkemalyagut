@@ -5,7 +5,6 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Görkem Alyağut</h1>
-<h3 align="center">A passionate Mobile developer from Cyprus.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorkemalyagut&label=Profile%20views&color=0e75b6&style=flat" alt="gorkemalyagut" /> </p>
 
@@ -21,7 +20,7 @@
 
 - ⚡ Fun fact **I love reading & games.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 
 ###
@@ -48,6 +47,8 @@
 </div>
 
 ###
+
+<h3 align="left">💻 Languages and Tools::</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
