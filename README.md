@@ -96,9 +96,9 @@
 ###
 
 <div align="left">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=react&preferLogin=false&Border=00000000">    <img  alt="gorkemalyagut's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gorkemalyagut?cardType=github&theme=react&preferLogin=false&Border=00000000" />  </a>
+  <img  alt="gorkemalyagut's GitHub Stats" height="175" src="https://awesome-github-stats.azurewebsites.net/user-stats/gorkemalyagut?cardType=github&theme=react&preferLogin=false&Border=00000000" /> </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&username=gorkemalyagut" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&username=gorkemalyagut" height="175" alt="languages graph"  />
 </div>
 
 ###
