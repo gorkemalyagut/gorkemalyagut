@@ -4,9 +4,16 @@
 
 ###
 
-● 🔭 I’m currently working on [Mobile Developer].
+● 🔭 I’m currently working on Mobile Developer. `#0969DA`
 
 ● 🌱 I’m currently learning [Flutter].
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 ● 👨‍💻 My portfolio [My Website](https://gorkemalyagut.github.io/Portfolio/)
 
