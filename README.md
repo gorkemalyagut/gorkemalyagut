@@ -12,7 +12,7 @@
 
 ● 📝 I regularly write articles on [Medium](https://medium.com/@gorkemalyagut)
 
-● ⚡ Fun fact **I love reading & games.**
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0` ⚡ Fun fact **I love reading & games.**
 
 ###
 
