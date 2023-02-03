@@ -4,9 +4,9 @@
 
 ###
 
-● 🔭 I’m currently working on **Mobile Developer.**
+● 🔭 I’m currently working on [*Mobile Developer*].
 
-● 🌱 I’m currently learning **Flutter**
+● 🌱 I’m currently learning [*Flutter*].
 
 ● 👨‍💻 My portfolio [My Website](https://gorkemalyagut.github.io/Portfolio/)
 
