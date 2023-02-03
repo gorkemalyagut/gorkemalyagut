@@ -4,15 +4,15 @@
 
 ###
 
-● 🔭 I’m currently working on ![#c5f015](Mobile Developer.) `#c5f015`
+● 🔭 I’m currently working on [Mobile Developer.]()
 
-● 🌱 I’m currently learning [Flutter].
+● 🌱 I’m currently learning [Flutter.]()
 
 ● 👨‍💻 My portfolio [My Website](https://gorkemalyagut.github.io/Portfolio/)
 
 ● 📝 I regularly write articles on [Medium](https://medium.com/@gorkemalyagut)
 
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0` ⚡ Fun fact **I love reading & games.**
+● ⚡ Fun fact **I love reading & games.**
 
 ###
 
