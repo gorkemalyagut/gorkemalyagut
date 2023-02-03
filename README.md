@@ -4,7 +4,7 @@
 
 ###
 
-● 🔭 I’m currently working on ``` !diff Mobile Developer. ```
+● 🔭 I’m currently working on ``` !Mobile Developer. ```
 
 ● 🌱 I’m currently learning [Flutter].
 
