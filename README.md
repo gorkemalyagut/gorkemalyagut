@@ -94,8 +94,10 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 ###
-
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=react&preferLogin=false">    <img  alt="gorkemalyagut's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gorkemalyagut?cardType=github&theme=react&preferLogin=false" />  </a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=gorkemalyagut" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&username=gorkemalyagut" height="150" alt="languages graph"  />
+</div>
 
 ###
 
