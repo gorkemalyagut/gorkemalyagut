@@ -1,7 +1,7 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gradle,html,css,js,bootstrap,sass,jquery,ts,react,nodejs,php,java" />
     <img src="https://skillicons.dev/icons?i=spring,c,cpp,py,docker,mysql,sqlite,mongodb,postgres,postman,git,github,gitlab,androidstudio" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="55" alt="bitbucket logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="50width="55" alt="bitbucket logo"  />
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,atom,idea,figma,materialui,gcp" />
 </p>
 
