@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gradle,androidstudio,html,css,js,bootstrap,sass,jquery,ts,react,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=php,,java,spring,c,cpp,py,docker,mysql,mongodb,postgres,postman" />
+
+  </a>
+</p>
+
+
 <div align="center">
   <img height="250" src="https://docs.flutter.dev/assets/images/dash/Dashatars.png"  />
 </div>
