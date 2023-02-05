@@ -115,20 +115,7 @@
 
 ###
 
-###
-
-<h3 align="left">📝Medium</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=gorkemalyagut&theme=react" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <img src="https://github.com/gorkemalyagut/gorkemalyagut/blob/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
