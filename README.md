@@ -2,7 +2,7 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gradle,html,css,js,bootstrap,sass,jquery,ts,react,nodejs,php,java" />
     <img src="https://skillicons.dev/icons?i=spring,c,cpp,py,docker,mysql,sqlite,mongodb,postgres,postman,git,github,gitlab" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="50" width="55"  alt="bitbucket logo"  />
-    <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="55" /></a>  
+    <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
     <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,atom,idea,figma,materialui,gcp" />
 </p>
 
