@@ -50,8 +50,8 @@
 
 ###
 
-<div align="left">
-  <p align="left" style="padding-right:10px;" >
+<div align="left" style="padding-right:10px;">
+  <p align="left" >
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gradle,html,css,js,bootstrap,sass,jquery,ts,react,nodejs,php,java" />
     <img src="https://skillicons.dev/icons?i=spring,c,cpp,py,docker,mysql,sqlite,mongodb,postgres,postman,git,github,gitlab" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="50" width="60"  alt="bitbucket logo"  />
