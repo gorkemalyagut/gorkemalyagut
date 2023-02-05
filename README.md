@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gradle,html,css,js,bootstrap,sass,jquery,ts,react,nodejs,php,java," /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gradle,html,css,js,bootstrap,sass,jquery,ts,react,nodejs,php,java" />
     <img src="https://skillicons.dev/icons?i=spring,c,cpp,py,docker,mysql,sqlite,mongodb,postgres,postman,git,github,gitlab,androidstudio" />
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,atom,idea,figma,materialui,gcp" />
 </p>
