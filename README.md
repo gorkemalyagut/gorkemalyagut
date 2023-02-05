@@ -5,7 +5,7 @@
     <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="45" /></a>  
     <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,atom,idea,figma,materialui,gcp" />
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="45" width="55" alt="android logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" width="55" alt="npm logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" width="50" alt="npm logo"  />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" width="55" alt="trello"/>   
 </p>
 
