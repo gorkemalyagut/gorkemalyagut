@@ -1,10 +1,6 @@
 <p align="left">
- 
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" width="55" alt="android logo" />,
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gradle,androidstudio,html,css,js,bootstrap,sass,jquery,ts,react,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=php,,java,spring,c,cpp,py,docker,mysql,mongodb,postgres,postman" />
-
-  
 </p>
 
 
