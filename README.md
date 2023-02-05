@@ -1,7 +1,7 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gradle,androidstudio,html,css,js,bootstrap,sass,jquery,ts,react,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=php,java,spring,c,cpp,py,docker,mysql,sqlite,mongodb,postgres,postman" />
-    <img src="https://skillicons.dev/icons?i=atom,,figma,gcp,git,github,gitlab,idea,materialui,visualstudio,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=atom,figma,gcp,git,github,gitlab,idea,materialui,visualstudio,vscode,postman" />
 </p>
 
 
