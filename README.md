@@ -224,7 +224,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gorkemalyagut/gorkemalyagut/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/gorkemalyagut/gorkemalyagut/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
