@@ -2,6 +2,11 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gradle,html,css,js,bootstrap,sass,jquery,ts,react,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=php,java,spring,c,cpp,py,docker,mysql,sqlite,mongodb,postgres,postman" />
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,androidstudio,visualstudio,vscode,atom,idea,figma,materialui,gcp" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="55" alt="npm logo"  />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" width="55" alt="android logo" />
+  <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="35" /></a>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="55" alt="bitbucket logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="55" alt="trello"/>   
 </p>
 
 
