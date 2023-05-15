@@ -87,10 +87,6 @@
 
 ###
 
-<img src="https://github.com/gorkemalyagut/gorkemalyagut/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/gorkemalyagut/count.svg?"  />
 </div>
